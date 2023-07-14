@@ -21,7 +21,7 @@ app.post("/",(req,res)=>{
     //console.log(mensaje);
     //const data = JSON.stringify(mensaje);
     array.push(req.body);
-    console.log(array);
+    console.log(array); 
     //archivo.appendFileSync(path, `${data}\n`);
     
     res.send("<h1>Hola Mundo desde Método POST</h1>");
