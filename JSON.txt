@@ -1,0 +1,34 @@
+{
+    "Titulo":"Mision Imposible",
+    "Descripcion":"Pelicula de accion",
+    "Fecha":"21-07-2023",
+    "Lugar":"Cinemark"
+    }
+
+{
+  "Titulo": "Festival Gastronómico",
+  "Descripcion": "Un festival que celebra la diversidad culinaria con chefs reconocidos",
+  "Fecha": "2023-08-30",
+  "Lugar": "Parque de la Ciudad"
+}
+
+{
+  "Titulo": "Feria de Tecnología",
+  "Descripcion": "Una feria que muestra los últimos dispositivos tecnológicos",
+  "Fecha": "2023-08-25",
+  "Lugar": "Centro de Convenciones ABC"
+}
+
+{
+  "Titulo": "Concierto de Jazz en Vivo",
+  "Descripcion": "Un concierto de jazz con músicos famosos de la industria",
+  "Fecha": "2023-08-20",
+  "Lugar": "Teatro XYZ"
+}
+
+{
+  "Titulo": "Exposición de Arte Moderno",
+  "Descripcion": "Una exposición que presenta obras de artistas contemporáneos",
+  "Fecha": "2023-08-15",
+  "Lugar": "Galería de Arte ABC"
+}
